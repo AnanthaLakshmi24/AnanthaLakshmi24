@@ -47,14 +47,17 @@
 
 ---
 
-## 📌 Recent GitHub Activity
+## 🌱 My GitHub Green Garden
 
-<!-- GitHub Activity Graph -->
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnanthaLakshmi24&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
 
-> ✍ Pro Tip: You can also integrate tools like *GitHub Readme Activity* to fetch latest commits and display them dynamically via GitHub Actions.
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnanthaLakshmi24&theme=github-dark&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
+
+<!-- GitHub Snake Game -->
+<img src="https://raw.githubusercontent.com/AnanthaLakshmi24/AnanthaLakshmi24/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
+
+</div>
 
 ---
 
