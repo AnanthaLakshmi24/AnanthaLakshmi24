@@ -2,7 +2,7 @@
 - 👀 I’m interested in websites building.
 - 🌱 I’m currently learning python using DSA.
 - 💞 I’m looking to collaborate on the persons who has similar interests like me.
-- 📫 How to reach me gollavillianu3@gmail.com
+- 📫 How to reach me durgaananthalakshmigollavilli@gmail.com
 - ⚡ Fun fact:I celebrate small wins with big snacks 🍫
 
 <!---
