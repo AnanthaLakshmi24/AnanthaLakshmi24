@@ -52,9 +52,9 @@ GitHub Profile README for Durga Anantha Lakshmi
 
 <div align="center">
   <ul style="list-style-type:none; padding:0;">
-    <li>🥗 <b>FoodBridge</b> – Website connecting surplus food to orphanages & old age homes</li>
-    <li>📅 <b>Smart Timetable Scheduler</b> – Auto-generated clash-free college timetables</li>
-    <li>🏏 <b>KridaVerse</b> – Sports mini-project with live scores and registration pages</li>
+    <li>>FoodBridge</b> – Website connecting surplus food to orphanages & old age homes</li>
+    <li>📅Smart Timetable Scheduler</b> – Auto-generated clash-free college timetables</li>
+    <li>🏏KridaVerse</b> – Sports mini-project with live scores and registration pages</li>
   </ul>
 </div>
 
