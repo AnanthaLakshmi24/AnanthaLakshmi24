@@ -9,12 +9,13 @@
 AnanthaLakshmi24/AnanthaLakshmi24 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# 👋 Hi, I'm Durga Anantha Lakshmi  
+
+# 👋 Hi, I'm Durga Anantha Lakshmi
 
 🚀 Passionate **programmer & web developer** | 🎓 2nd Year Student at **Aditya Engineering College**  
 💡 Skilled in **C, Python, C++**, learning **Web Development & Java (OOPs)**  
 📚 Solved **750+ problems on CodeChef** | Exploring **Data Structures & Algorithms**  
-🌱 Currently working on: **FoodBridge (web project to reduce food waste)**  
+🌱 Currently working on: **FoodBridge (web project to reduce food waste)**
 
 ---
 
@@ -47,12 +48,12 @@ You can click the Preview link to take a look at your changes.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
+
 ## 📊 GitHub Stats & Streaks
 
-![Durga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DurgaAnanthaLakshmi&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DurgaAnanthaLakshmi&layout=compact&theme=radical)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DurgaAnanthaLakshmi&theme=radical)](https://git.io/streak-stats)
-
+![Durga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnanthaLakshmi24&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnanthaLakshmi24&layout=compact&theme=radical)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AnanthaLakshmi24)](https://git.io/streak-stats)
 
 ---
 
@@ -60,16 +61,17 @@ You can click the Preview link to take a look at your changes.
 
 - 🥗 **FoodBridge** – A website connecting surplus food from convention halls to orphanages & old age homes.  
 - 📅 **Smart Timetable Scheduler** – Auto-generated clash-free timetables for colleges.  
-- 🏏 **KridaVerse** – Sports-based mini project with live scores and registration pages.  
+- 🏏 **KridaVerse** – Sports-based mini project with live scores and registration pages.
 
 ---
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durga-anantha-lakshmi-123456789/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananthalakshmi24@example.com)
 
 ---
 
 ✨ *"Code, Learn, Build, and Inspire."*
+
 
