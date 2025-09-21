@@ -47,11 +47,12 @@ You can click the Preview link to take a look at your changes.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Streaks
 
 ![Durga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DurgaAnanthaLakshmi&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DurgaAnanthaLakshmi&layout=compact&theme=radical)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DurgaAnanthaLakshmi&theme=radical)](https://git.io/streak-stats)
+
 
 ---
 
