@@ -16,7 +16,7 @@ GitHub Profile README for Durga Anantha Lakshmi
 
 ## 🙋‍♀️ About Me
 
-- 🎓 2nd Year student at **Aditya Engineering College** with a passion for programming  
+- 🎓 2nd Year student at **Aditya Engineering College**  
 - 💻 Full-stack developer | Web enthusiast | Problem solver  
 - 📚 Learning **Python with DSA** and **Java OOPs**  
 - 🚀 Solved **750+ problems on CodeChef**  
@@ -26,19 +26,13 @@ GitHub Profile README for Durga Anantha Lakshmi
 
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend" height="40"/>
-</div>
-
-### 🧠 Backend & Database
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" alt="Backend & DB" height="40"/>
-</div>
-
-### 🧰 Tools & Languages
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,git,vscode" alt="Tools & Languages" height="40"/>
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend" height="50" style="margin:5px"/>
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" alt="Backend & DB" height="50" style="margin:5px"/>
+  <!-- Tools & Languages -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,git,vscode" alt="Tools & Languages" height="50" style="margin:5px"/>
 </div>
 
 ---
@@ -46,15 +40,10 @@ GitHub Profile README for Durga Anantha Lakshmi
 ## 📊 GitHub Stats & Graphs
 
 <div align="center">
-  <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AnanthaLakshmi24&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnanthaLakshmi24&layout=compact&theme=radical" height="180"/>
-  
-  <!-- Streaks -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnanthaLakshmi24&theme=radical" height="180"/>
-  
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnanthaLakshmi24&theme=react-dark&area=true&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AnanthaLakshmi24&show_icons=true&theme=radical" height="150" style="margin:5px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnanthaLakshmi24&layout=compact&theme=radical" height="150" style="margin:5px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnanthaLakshmi24&theme=radical" height="150" style="margin:5px"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnanthaLakshmi24&theme=react-dark&area=true&hide_border=true" height="150" style="margin:5px"/>
 </div>
 
 ---
@@ -62,9 +51,11 @@ GitHub Profile README for Durga Anantha Lakshmi
 ## 🌟 Featured Projects
 
 <div align="center">
-- 🥗 **FoodBridge** – Website connecting surplus food to orphanages & old age homes  
-- 📅 **Smart Timetable Scheduler** – Auto-generated clash-free college timetables  
-- 🏏 **KridaVerse** – Sports mini-project with live scores and registration pages
+  <ul style="list-style-type:none; padding:0;">
+    <li>🥗 <b>FoodBridge</b> – Website connecting surplus food to orphanages & old age homes</li>
+    <li>📅 <b>Smart Timetable Scheduler</b> – Auto-generated clash-free college timetables</li>
+    <li>🏏 <b>KridaVerse</b> – Sports mini-project with live scores and registration pages</li>
+  </ul>
 </div>
 
 ---
