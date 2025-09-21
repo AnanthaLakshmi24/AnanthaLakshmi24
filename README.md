@@ -13,15 +13,19 @@ Professional & Creative GitHub Profile README for Durga Anantha Lakshmi
 </div>
 
 ---
-
 ## 🙋‍♀️ About Me
 
 <div align="center">
-🎓 2nd Year student at **Aditya Engineering College**  
+
+👋 Hi there! I’m **Durga Anantha Lakshmi**  
+
+🎓 2nd Year Student at **Aditya Engineering College**  
 💻 Full-Stack Developer | Web & App Enthusiast  
 📚 Learning **Python (DSA)**, **Java (OOPs)** & **Advanced Web Development**  
-🚀 Solved **750+ problems on CodeChef**  
-⚡ Fun Fact: I celebrate small wins with big snacks 🍫
+🚀 Solving **750+ problems on CodeChef**  
+
+⚡ Fun Fact: I celebrate small wins with big snacks 🍫  
+
 </div>
 
 ---
@@ -30,10 +34,15 @@ Professional & Creative GitHub Profile README for Durga Anantha Lakshmi
 
 <div align="center">
   <!-- Frontend -->
+  <h4>🌐 Frontend</h4>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" height="50" style="margin:5px" title="HTML, CSS, JS, React, Tailwind"/>
+  
   <!-- Backend -->
+  <h4>🧠 Backend & Database</h4>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,python,java" height="50" style="margin:5px" title="Node.js, Express, MySQL, MongoDB, Python, Java"/>
+  
   <!-- Tools & Editors -->
+  <h4>🧰 Tools & Editors</h4>
   <img src="https://skillicons.dev/icons?i=git,vscode,figma,linux,docker" height="50" style="margin:5px" title="Git, VSCode, Figma, Linux, Docker"/>
 </div>
 
