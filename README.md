@@ -39,11 +39,11 @@ Professional & Creative GitHub Profile README for Durga Anantha Lakshmi
   
   <!-- Backend -->
   <h4>🧠 Backend & Database</h4>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,python,java" height="50" style="margin:5px" title="Node.js, Express, MySQL, MongoDB, Python, Java"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,python,java" height="50" style="margin:5px" title="MySQL, MongoDB, Python, Java"/>
   
   <!-- Tools & Editors -->
   <h4>🧰 Tools & Editors</h4>
-  <img src="https://skillicons.dev/icons?i=git,vscode,figma,linux,docker" height="50" style="margin:5px" title="Git, VSCode, Figma, Linux, Docker"/>
+  <img src="https://skillicons.dev/icons?i=git,vscode" height="50" style="margin:5px" title="Git, VSCode"/>
 </div>
 
 ---
