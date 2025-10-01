@@ -116,6 +116,8 @@
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
+[![wakatime](https://wakatime.com/badge/user/your-id.svg)](https://wakatime.com/@your-id)
+
 
 <div align="center">
   <h3>✨ Thank you for visiting! Star ⭐ your favorite repositories! ✨</h3>
