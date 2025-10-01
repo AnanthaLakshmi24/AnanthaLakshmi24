@@ -110,6 +110,8 @@
 </div>
 
 ---
+<img src="https://github-profile-trophy.vercel.app/?username=AnanthaLakshmi24&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+
 
 <div align="center">
   <h3>✨ Thank you for visiting! Star ⭐ your favorite repositories! ✨</h3>
