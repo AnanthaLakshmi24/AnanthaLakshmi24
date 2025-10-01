@@ -112,11 +112,16 @@
 ---
 <img src="https://github-profile-trophy.vercel.app/?username=AnanthaLakshmi24&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnanthaLakshmi24&repo=FoodBridge&theme=radical)](https://github.com/AnanthaLakshmi24/FoodBridge)
+## 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnanthaLakshmi24&theme=radical&no-frame=true&margin-w=15&row=1" />
+</p>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+## 💡 Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
 
-[![wakatime](https://wakatime.com/badge/user/your-id.svg)](https://wakatime.com/@your-id)
 
 
 <div align="center">
