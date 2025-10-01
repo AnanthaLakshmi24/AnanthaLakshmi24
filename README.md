@@ -53,7 +53,7 @@ Professional & Creative GitHub Profile README for Durga Anantha Lakshmi
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnanthaLakshmi24&show_icons=true&theme=radical&count_private=true" height="150" style="margin:5px" title="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnanthaLakshmi24&layout=compact&theme=radical" height="150" style="margin:5px" title="Top Languages"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnanthaLakshmi24&theme=radical" height="150" style="margin:5px" title="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=AnanthaLakshmi24&theme=radical" height="150" style="margin:5px" title="GitHub Streak"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnanthaLakshmi24&theme=react-dark&area=true&hide_border=true" height="150" style="margin:5px" title="Contribution Graph"/>
 </div>
 
