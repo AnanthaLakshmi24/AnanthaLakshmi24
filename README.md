@@ -1,7 +1,3 @@
-<!--
-Professional & Creative GitHub Profile README for Durga Anantha Lakshmi
--->
-
 <div align="center">
   <!-- Typing Animation -->
   <img src="https://readme-typing-svg.herokuapp.com?lines=Hello,+World!;I'm+Durga+Anantha+Lakshmi;Full-Stack+Developer+|+Problem+Solver;Let's+Code+and+Build+Awesome+Projects💡" alt="Typing SVG" />
@@ -22,7 +18,7 @@ Professional & Creative GitHub Profile README for Durga Anantha Lakshmi
 🎓 2nd Year Student at **Aditya Engineering College**  
 💻 Full-Stack Developer | Web & App Enthusiast  
 📚 Learning **Python (DSA)**, **Java (OOPs)** & **Advanced Web Development**  
-🚀 Solving **750+ problems on CodeChef**  
+🚀 Solving **950+ problems on CodeChef**  
 
 ⚡ Fun Fact: I celebrate small wins with big snacks 🍫  
 
