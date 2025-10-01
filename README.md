@@ -111,7 +111,10 @@
 
 ---
 <img src="https://github-profile-trophy.vercel.app/?username=AnanthaLakshmi24&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnanthaLakshmi24&repo=FoodBridge&theme=radical)](https://github.com/AnanthaLakshmi24/FoodBridge)
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
 
 <div align="center">
