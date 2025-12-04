@@ -54,7 +54,7 @@
 </div>
 
 ---
-
+<!--
 ## 🌟 Featured Projects
 
 <div align="center">
@@ -70,7 +70,7 @@
 </div>
 
 ---
-
+-->
 ## 🏆 Competitive Programming
 
 <div align="center">
